@@ -16,7 +16,7 @@ public class Multiples_fuentes_eventos {
 	}
 
 }
-
+///prueba comentario
 class Multiples_Eventos extends JFrame {
 	
 	public Multiples_Eventos() {
